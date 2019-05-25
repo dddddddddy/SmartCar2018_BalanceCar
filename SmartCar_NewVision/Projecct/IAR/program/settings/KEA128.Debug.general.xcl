@@ -1,0 +1,15 @@
+"E:\iar7.7\arm\bin\armproc.dll" 
+
+"E:\iar7.7\arm\bin\armjlink2.dll" 
+
+"F:\program\smartcar-Ð¡¹ÏÆ¤\SmartCar_NewVision_AD15_9500\SmartCar_NewVision\Projecct\IAR\program\Debug\Exe\KEA128.out" 
+
+--plugin "E:\iar7.7\arm\bin\armbat.dll" 
+
+--device_macro "E:\iar7.7\arm\config\debugger\NXP\KExx.dmac" 
+
+--flash_loader "E:\iar7.7\arm\config\flashloader\NXP\FlashKE04Z128_4.board" 
+
+
+
+
